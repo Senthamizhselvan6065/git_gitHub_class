@@ -1,0 +1,7 @@
+git working flow -> Any Modification -> Add -> Commit -> Push
+
+1. Create a new file -> U - Untracked
+2. git add git.txt
+3. Add a file A - Stage
+4. git commit -m "message"
+5. git push origin main -> move on the file github server
